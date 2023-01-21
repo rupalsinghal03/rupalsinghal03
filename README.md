@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rupalsinghal03
 - 👀 I’m interested in Front-end projects
-- 🌱 I’m currently learning Front-end web development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Frontend Developer and a Coding Enthusiast.
+- 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me ...
 
 <!---
