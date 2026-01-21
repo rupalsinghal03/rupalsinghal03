@@ -1,4 +1,4 @@
-👋 Hi, I’m Rupal Singhal
+👋 Hi, I’m Rupal Singhal |
 Full-Stack (MERN) Developer | ⚛️ React.js | 🌐 JavaScript
 - 👀 assionate about building clean, scalable, and user-centric web applications
 - 🌱 Working with MERN Stack (MongoDB, Express.js, React.js, Node.js)
